@@ -1,0 +1,45 @@
+{
+  "name": "إدارة الانتخاب - نظام إدارة العملية الانتخابية",
+  "short_name": "إدارة الانتخاب",
+  "description": "نظام إلكتروني متطور لإدارة وتنظيم العملية الانتخابية وبيانات الناخبين.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "scope": ".",
+  "icons": [
+    {
+  "src": "https://firebasestorage.googleapis.com/v0/b/messageemeapp.appspot.com/o/Gemini_Generated_Image_mywpgpmywpgpmywp.png?alt=media&token=70ce37bf-a3db-4c8b-9293-4c33835f943f",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+  "src": "https://firebasestorage.googleapis.com/v0/b/messageemeapp.appspot.com/o/Gemini_Generated_Image_mywpgpmywpgpmywp.png?alt=media&token=70ce37bf-a3db-4c8b-9293-4c33835f943f",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+  "src": "https://firebasestorage.googleapis.com/v0/b/messageemeapp.appspot.com/o/Gemini_Generated_Image_mywpgpmywpgpmywp.png?alt=media&token=70ce37bf-a3db-4c8b-9293-4c33835f943f",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+  "src": "https://firebasestorage.googleapis.com/v0/b/messageemeapp.appspot.com/o/Gemini_Generated_Image_mywpgpmywpgpmywp.png?alt=media&token=70ce37bf-a3db-4c8b-9293-4c33835f943f",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["government", "politics", "utilities"],
+  "screenshots": [
+    {
+  "src": "https://firebasestorage.googleapis.com/v0/b/messageemeapp.appspot.com/o/Gemini_Generated_Image_mywpgpmywpgpmywp.png?alt=media&token=70ce37bf-a3db-4c8b-9293-4c33835f943f",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
